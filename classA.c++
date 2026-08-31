@@ -11,12 +11,10 @@ class A{
      
  }
 
- void print(){
-
-      cout<<"your name is :"<<name<<endl;
+ void print (){
 
 
+     cout<<"your name is :"<<name<<endl;
  }
-
 
 };
