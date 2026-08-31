@@ -1,4 +1,8 @@
-class B
+#include <iostream>
+using namespace std;
+  
+  class B
+
 {
 private:
     int id;
@@ -7,7 +11,11 @@ public:
 
        id=i;
    }
-   
+   void print(){
+
+       cout<<"your is id is ="<<id<<endl;
+   }
+
 };
 
 
