@@ -63,6 +63,15 @@ public:
 
     
 };
+int main(){
+
+     D ob1("omar",2504,11);
+     ob1.print();
+
+
+
+
+}
 
 
 
